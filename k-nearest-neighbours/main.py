@@ -12,7 +12,7 @@ noise = 12
 groups = 2
 test_count = 20
 
-neighbors = 4
+neighbors = 5
 
 pts, pts_class = utils.generate_points(dims, data_count, noise, groups)
 test_pts = utils.generate_test_points(dims, test_count)
