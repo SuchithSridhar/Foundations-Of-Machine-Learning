@@ -8,6 +8,14 @@ There are 3 files in this code base:
   problem.
 - `main.py`: The main sequence of the program.
 
+
+**How the random data is generated**:
+
+The data generated is based on generating random centroid points and then
+generating points around this centroid base and then maybe adding some noise. So
+our "random points" are going to be in circular regions. This was designed this
+way to facilitate easy classification.
+
 ## Try it yourself
 
 If you'd like to try writing this on your own, just make sure you just use
