@@ -10,7 +10,7 @@ contains the details of the math of this project.
 Here is an example of using this model to classify a synthetically generated
 dataset:
 
-![Graphing classification for synthetic data](plot.png) 
+![Graphing classification for synthetic data](graph.png) 
 
 ## Dependencies
 
